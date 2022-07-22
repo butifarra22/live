@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1, chinese Kimono
+#EXTINF:-1, chinese KIMONO1
 https://videozm.dlyilian.com:8091/20190910/HEYZO-1620/1000kb/hls/index.m3u8
+#EXTINF:-1, chinese KIMONO2
+https://videozm.dlyilian.com:8091/20190910/102116_410/1000kb/hls/index.m3u8
 #EXTINF:-1, chinese
 https://videozm.dlyilian.com:8091/20190910/HEYZO-1621/1000kb/hls/index.m3u8
 #EXTINF:-1, chinese Masaje
@@ -1081,7 +1083,7 @@ https://videozm.dlyilian.com:8091/20190910/091016_380/1000kb/hls/index.m3u8
 https://videozm.dlyilian.com:8091/20190910/120111-875/1000kb/hls/index.m3u8
 #EXTINF:-1, chinese
 https://videozm.dlyilian.com:8091/20190910/102816_415/1000kb/hls/index.m3u8
-#EXTINF:-1, chinese
+#EXTINF:-1, chinese KIMONO2
 https://videozm.dlyilian.com:8091/20190910/102116_410/1000kb/hls/index.m3u8
 #EXTINF:-1, chinese
 https://videozm.dlyilian.com:8091/20190910/102215_184/1000kb/hls/index.m3u8
