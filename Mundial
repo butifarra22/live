@@ -1,0 +1,401 @@
+
+#EXTM3U x-tvg-url=""
+
+#EXTINF:-1 tvg-id="" tvg-name="MUNDIAL QATAR | GOL MUNDIAL FHD" tvg-logo="https://app-storage.golmundial.com/app/img/share.jpg" group-title="⚽⭐️QATAR-2022⭐️⚽",GOL MUNDIAL 
+http://castlempire.site:8080/cliente3226/123456/238903
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru" tvg-logo="https://images2.imgbox.com/2a/c1/LmkNFjUQ_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Directv Sports
+http://castlempire.site:8080/cliente3226/123456/170111
+#EXTINF:-1 tvg-id="" tvg-name="GUATEMALA | Tigo Sports FHD" tvg-logo="http://castlempire.site:8080/images/e92d4bd634279d33ae484f9f8e840161.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Tigo Sports
+http://castlempire.site:8080/cliente3226/123456/219175
+#EXTINF:-1 tvg-id="" tvg-name="SAL | Tigo Sports HD" tvg-logo="http://castlempire.site:8080/images/151f579fdeb53ad0227944f7b70e0e57.png" group-title="⚽⭐️QATAR-2022⭐️⚽",Tigo Sports
+http://castlempire.site:8080/cliente3226/123456/171088
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://images2.imgbox.com/db/11/FMItvAal_o.png" group-title="⚽⭐️QATAR-2022⭐️⚽",TyC Sports
+http://castlempire.site:8080/cliente3226/123456/169975
+#EXTINF:-1 tvg-id="" tvg-name="USA Latino | Telemundo New York HD" tvg-logo="http://www.brandemia.org/wp-content/uploads/2013/02/logo_telemundo_principal.jpg" group-title="⚽⭐️QATAR-2022⭐️⚽",TELEMUNDO NEW YORK
+http://castlempire.site:8080/cliente3226/123456/238897
+#EXTINF:-1 tvg-id="" tvg-name="4K | MUNDIAL - CHV" tvg-logo="https://www.chilevision.cl/chilevision/imag/default/default_1410x793.png" group-title="⚽⭐️QATAR-2022⭐️⚽",CHILEVISION
+http://castlempire.site:8080/cliente3226/123456/238991
+#EXTINF:-1 tvg-id="" tvg-name="LA_HD:SUR AR TV Pública HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxv8cn_U9VGNWtdBwzI6UD2JcWYVrPWQPRgQ&usqp=CAU" group-title="⚽⭐️QATAR-2022⭐️⚽",TV PUBLICA ARGENTINA
+http://castlempire.site:8080/cliente3226/123456/238689
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PE | Gol TV  Peru" tvg-logo="https://images2.imgbox.com/54/03/IzVicYvL_o.png" group-title="CANALES PERU",Gol Peru
+http://castlempire.site:8080/cliente3226/123456/178243
+#EXTINF:-1 tvg-id="" tvg-name="PERU | Movistar Deportes FHD" tvg-logo="https://images2.imgbox.com/c9/01/kQD1NmgE_o.png" group-title="CANALES PERU", Movistar Deportes
+http://castlempire.site:8080/cliente3226/123456/178245
+#EXTINF:-1 tvg-id="Willax.pe" tvg-name="Willax.pe" tvg-logo="https://images2.imgbox.com/dd/7f/qM0Rstpt_o.png" group-title="CANALES PERU",Willax
+http://castlempire.site:8080/cliente3226/123456/170133
+#EXTINF:-1 tvg-id="" tvg-name="PE | Latina" tvg-logo="https://images2.imgbox.com/f5/2c/JHiEaHZz_o.png" group-title="CANALES PERU",Latina
+http://castlempire.site:8080/cliente3226/123456/170126
+#EXTINF:-1 tvg-id="" tvg-name="PERU | America TV HD" tvg-logo="https://images2.imgbox.com/f5/93/SrsEVI8c_o.png" group-title="CANALES PERU",America TV
+http://castlempire.site:8080/cliente3226/123456/170106
+#EXTINF:-1 tvg-id="" tvg-name="PANAMERICANA" tvg-logo="https://images2.imgbox.com/cf/10/7MjrBN4M_o.png" group-title="CANALES PERU",PANAMERICANA
+http://castlempire.site:8080/cliente3226/123456/178254
+#EXTINF:-1 tvg-id="" tvg-name="PERU | RPP HD (E)" tvg-logo="https://images2.imgbox.com/f6/6f/6SeBA7bU_o.png" group-title="CANALES PERU",RPP HD 
+http://castlempire.site:8080/cliente3226/123456/178257
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/a7/34/NcPkxvbH_o.png" group-title="CANALES PERU",TV PERU
+http://castlempire.site:8080/cliente3226/123456/178259
+#EXTINF:-1 tvg-id="Canal ip" tvg-name="canal ipe" tvg-logo="https://images2.imgbox.com/f1/f1/pHt6QWJW_o.png" group-title="CANALES PERU",CANAL IPE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="" tvg-name="CANAL N" tvg-logo="https://images2.imgbox.com/92/13/nO891QTv_o.png" group-title="CANALES PERU",CANAL N
+http://castlempire.site:8080/cliente3226/123456/178256
+#EXTINF:-1 tvg-id="199dtv.pe" tvg-logo="https://images2.imgbox.com/7f/a6/Ya18vh19_o.png" group-title="CANALES PERU", ATV HD
+https://dysmuyxh5vstv.cloudfront.net/hls/live_720p30.m3u8
+#EXTINF:-1 tvg-id="ATVMásNoticias.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/2f/65/RR4vnkng_o.png" group-title="CANALES PERU",ATV+ NOTICIAS
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/05/19/OlKSX56K_o.png" group-title="CANALES PERU", GLOBAL
+http://190.108.83.142:8000/play/a00x/index.m3u8
+#EXTINF:-1 tvg-id="Nativa.pe" tvg-logo="https://i.imgur.com/Y9k9XSO.png" group-title="CANALES PERU",Nativa
+https://servilive.com:3449/live/mlecaroslive.m3u8
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/e2/55/9HDntZGQ_o.png" group-title="CANALES PERU",VNPNOTICIAS
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/chunklist_w147138220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EXITOSA TV" tvg-logo="https://images2.imgbox.com/8a/ce/bIMGZqGf_o.png" group-title="CANALES PERU",EXITOSA TV
+http://castlempire.site:8080/cliente3226/123456/170117
+#EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="CANALES PERU",Best Cable
+https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PE| Best Cable TV Canal 3" tvg-logo="https://i.ytimg.com/vi/AkSIcDN89DE/maxresdefault.jpg" group-title="CANALES PERU",Best Cable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="OVACION" tvg-name="OVACION" tvg-logo="https://1.bp.blogspot.com/-1Y89rzGLvhw/T2phRl86zEI/AAAAAAAAAJ4/vFTqNm2_BKY/s1600/radio_ovacion.jpg" group-title="CANALES PERU",OVACION | PE
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="GENIOS TV" tvg-name="GENIOS TV" tvg-logo="https://geniostv.pe/wp-content/uploads/2021/07/logo2.jpg" group-title="CANALES PERU",GENIOS TV
+https://live.obslivestream.com/geniostvmux/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="MegaTVJaen.pe" tvg-logo="https://i.imgur.com/zK1YcpJ.png" group-title="CANALES PERU",Mega TV (Jaen)
+https://tv.portalexpress.es:3399/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="MegaTVArequipa.pe" tvg-logo="https://i.imgur.com/q34E9V4.png" group-title="CANALES PERU",Mega TV (Arequipa)
+https://hls.servidor.stream/storage/megatv.m3u8
+#EXTINF:-1 tvg-id="FuegoTV.pe" tvg-logo="https://images2.imgbox.com/05/d9/hUkhHGlp_o.png" group-title="CANALES PERU",FuegoTV (Lima)
+http://190.108.83.142:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="SuperCanal.pe" tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="CANALES PERU",Super Canal (Yurimaguas)
+https://7.innovatestream.pe:19360/supercanal/supercanal.m3u8
+#EXTINF:-1 tvg-id="BHTV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/f3/c3/VopauaFx_o.png" group-title="CANALES PERU",BHTV
+http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="AntaresTelevision.pe" tvg-logo="https://i.imgur.com/05gwtk2.png" group-title="CANALES PERU",Antares Televisión
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:-1 tvg-id="Conecta2TV.pe" tvg-logo="https://i.imgur.com/cEx1LP9.png" group-title="CANALES PERU",Conecta2TV (Lima)
+https://servilive.com:3114/live/liveulive.m3u8
+#EXTINF:-1 tvg-id="lima live tv" tvg-name="lima live tv " tvg-logo="https://www.coolstreaming.us/img/ch/image24042473780.jpg" group-title="CANALES PERU",LIMA LIVE TV
+https://stmv.panel.grupolimalive.com/limalive/limalive/playlist.m3u8
+#EXTINF:-1 tvg-id="nuestra lima tv" tvg-name="nuestra lima tv " tvg-logo="https://graph.facebook.com/NUESTRATVPERU/picture?width=320&height=320" group-title="CANALES PERU",NUESTRA LIMA TV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/nuestratvlima
+#EXTINF:-1 tvg-id="ORBIT TV" tvg-name="ORBIT TV " tvg-logo="https://www.m3u.cl/logo/486_Orbit_TV.png" group-title="CANALES PERU",RADIO ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="TV COSMOS" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-VfOe5Ecgi-Q/W1APtBGFZ0I/AAAAAAAADfU/RMpp3taUvF4VZDevYxSrI8pVofRhoBSMQCLcBGAs/w1200-h630-p-k-no-nu/tv_cosmos.png" group-title="CANALES PERU",TV COSMOS
+https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w2134178340.m3u8
+#EXTINF:-1 tvg-id="MATICES TV" tvg-name="MATICES TV " tvg-logo="https://graph.facebook.com/aldiaconmatices/picture?width=320&height=320" group-title="CANALES PERU",MATICES TV
+http://v4.tustreaming.cl/matices/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.dmjsur.com/radio/img/facebook_banner_dmj.jpg" group-title="CANALES PERU", DMJ CUZCO
+https://v4.tustreaming.cl/s1tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://graph.facebook.com/Autenticatelevision/picture?width=320&height=320" group-title="CANALES PERU",AUTENTICA 
+https://live.obslivestream.com/autenticatvmux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/40/5f/JcNoDlla_o.png" group-title="CANALES PERU",NAZARENAS TV
+https://5c3fb01839654.streamlock.net:1963/iptvnazarenas/livenazarenastv/chunklist_w985208825.m3u8
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/5d/c6/qrLKCWvh_o.png" group-title="CANALES PERU", CR TV MOYOBAMBA
+https://live.obslivestream.com/crtvmux/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://images2.imgbox.com/cc/14/KAgvfLNB_o.png" group-title="CANALES PERU",PLANETA TV BAGUA
+https://stmv.panel.grupolimalive.com/planeatv/planeatv/chunklist_w680028172.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MEX | AXN HD" tvg-logo="https://images2.imgbox.com/b5/7a/6RHwKSrA_o.png" group-title="CANALES PREMIUN",AXN
+http://castlempire.site:8080/cliente3226/123456/190666
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINECANAL HD" tvg-logo="https://images2.imgbox.com/0c/7b/2uxDrVmy_o.png" group-title="CANALES PREMIUN",CINECANAL
+http://castlempire.site:8080/cliente3226/123456/56340
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | CINEMAX (MX) HD" tvg-logo="https://images2.imgbox.com/0d/92/qy17z0Nq_o.png" group-title="CANALES PREMIUN",CINEMAX
+http://castlempire.site:8080/cliente3226/123456/169820
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SHOWTIME HD" tvg-logo="https://images2.imgbox.com/57/38/SwlzuGbv_o.png" group-title="CANALES PREMIUN",SHOWTIME
+http://castlempire.site:8080/cliente3226/123456/172778
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ HD" tvg-logo="https://images2.imgbox.com/1d/62/PHdXEvTS_o.png" group-title="CANALES PREMIUN",STARZ
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169808
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Starz Black HD_1080P" tvg-logo="https://images2.imgbox.com/28/32/LjrwtZ5J_o.png" group-title="CANALES PREMIUN",STARZ BLACK
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/190478
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ EDGE" tvg-logo="https://images2.imgbox.com/34/48/ERqehy7T_o.png" group-title="CANALES PREMIUN",STARZ EDGE
+http://castlempire.site:8080/cliente3226/123456/172773
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ CINEMA HD" tvg-logo="https://images2.imgbox.com/a7/7a/ZLymOn8Y_o.png" group-title="CANALES PREMIUN",STARZ CINEMA
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169809
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ ENCORE ACTION" tvg-logo="https://images2.imgbox.com/e0/11/3FU7wOUo_o.png" group-title="CANALES PREMIUN",STARZ ENCORE ACTION
+http://castlempire.site:8080/cliente3226/123456/172772
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ ENCORE CLASSIC" tvg-logo="https://images2.imgbox.com/c8/f5/szHFX261_o.png" group-title="CANALES PREMIUN",STARZ ENCORE CLASSIC
+http://castlempire.site:8080/cliente3226/123456/172771
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ ENCORE SUSPENSE" tvg-logo="https://images2.imgbox.com/3d/7f/1axhADMe_o.png" group-title="CANALES PREMIUN",STARZ ENCORE SUSPENSE
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169803
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STARZ ENCORE WESTERN" tvg-logo="https://images2.imgbox.com/60/e9/lxFOLGLT_o.png" group-title="CANALES PREMIUN",STARZ ENCORE WESTERN
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169802
+#EXTINF:-1 tvg-id="" tvg-name="LA_FHD:Starz Encore Black" tvg-logo="https://images2.imgbox.com/88/0a/QPiigrRg_o.png" group-title="CANALES PREMIUN", STARZ ENCORE BLACK
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/190473
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | WARNER CHANNEL HD (Dual Audio)" tvg-logo="https://images2.imgbox.com/ad/e9/zpNgoBB9_o.png" group-title="CANALES PREMIUN",WARNER CHANNEL
+http://castlempire.site:8080/cliente3226/123456/172753
+#EXTINF:-1 tvg-id="" tvg-name="AMC España" tvg-logo="https://images2.imgbox.com/1c/9d/UVfGEEct_o.png" group-title="CANALES PREMIUN",AMC
+http://castlempire.site:8080/cliente3226/123456/56384
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | TNT HD Dual" tvg-logo="https://images2.imgbox.com/e1/dd/FaTBAoQg_o.png" group-title="CANALES PREMIUN",TNT
+http://castlempire.site:8080/cliente3226/123456/56374
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | TNT SERIES HD" tvg-logo="https://images2.imgbox.com/44/93/D7sj9Dv2_o.png" group-title="CANALES PREMIUN",TNT SERIES
+http://castlempire.site:8080/cliente3226/123456/56373
+#EXTINF:-1 tvg-id="" tvg-name="MEX | TCM" tvg-logo="https://images2.imgbox.com/1e/d5/i4TfMobX_o.png" group-title="CANALES PREMIUN",TCM
+http://castlempire.site:8080/cliente3226/123456/173900
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | AZ CINEMA HD" tvg-logo="https://images2.imgbox.com/f2/40/deutJhgG_o.png" group-title="CANALES PREMIUN",AZ CINEMA
+http://castlempire.site:8080/cliente3226/123456/169834
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | DE PELICULA" tvg-logo="https://images2.imgbox.com/9b/7d/ZlbGTRp6_o.png" group-title="CANALES PREMIUN",DE PELICULA
+http://castlempire.site:8080/cliente3226/123456/169827
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | DE PELICULA CLASICO" tvg-logo="https://images2.imgbox.com/d5/a8/AZ3sjYM4_o.png" group-title="CANALES PREMIUN",DE PELICULA CLASICO
+http://castlempire.site:8080/cliente3226/123456/169835
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | DE PELICULA PLUS HD" tvg-logo="https://images2.imgbox.com/a4/6b/Q9tWZbs9_o.png" group-title="CANALES PREMIUN",DE PELICULA PLUS
+http://castlempire.site:8080/cliente3226/123456/169790
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | FX (MX) FHD" tvg-logo="https://images2.imgbox.com/71/44/ilSunWxz_o.png" group-title="CANALES PREMIUN",FX 
+http://castlempire.site:8080/cliente3226/123456/169833
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | FXM HD" tvg-logo="https://images2.imgbox.com/9d/32/ChBUpmEd_o.png" group-title="CANALES PREMIUN",FXM
+http://castlempire.site:8080/cliente3226/123456/169795
+#EXTINF:-1 tvg-id="" tvg-name="MEX | Golden" tvg-logo="https://images2.imgbox.com/16/be/mOd3EiKo_o.png" group-title="CANALES PREMIUN",GOLDEN
+http://castlempire.site:8080/cliente3226/123456/190737
+#EXTINF:-1 tvg-id="" tvg-name="MEX | Golden Edge" tvg-logo="https://images2.imgbox.com/92/da/J0xlZGRH_o.png" group-title="CANALES PREMIUN",MEX | GOLDEN EDGE
+http://castlempire.site:8080/cliente3226/123456/190738
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | GOLDEN PLUS HD" tvg-logo="https://images2.imgbox.com/08/a9/XSlFzpDf_o.png" group-title="CANALES PREMIUN",GOLDEN PLUS
+http://castlempire.site:8080/cliente3226/123456/169796
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | GOLDEN PREMIER HD" tvg-logo="https://images2.imgbox.com/b3/71/M3zXHtGI_o.png" group-title="CANALES PREMIUN",GOLDEN PREMIER
+http://castlempire.site:8080/cliente3226/123456/169797
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://images2.imgbox.com/06/28/L67RJMfo_o.png" group-title="CANALES PREMIUN",HBO
+http://castlempire.site:8080/cliente3226/123456/169829
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO 2 HD" tvg-logo="https://images2.imgbox.com/42/33/zSKvofAs_o.png" group-title="CANALES PREMIUN",HBO 2
+http://castlempire.site:8080/cliente3226/123456/56342
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO FAMILY" tvg-logo="https://images2.imgbox.com/b8/37/DOlZPY9U_o.png" group-title="CANALES PREMIUN",HBO FAMILY
+http://castlempire.site:8080/cliente3226/123456/56356
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO SIGNATURE" tvg-logo="https://images2.imgbox.com/7f/fe/NDhTQ4IP_o.png" group-title="CANALES PREMIUN",HBO SIGNATURE
+http://castlempire.site:8080/cliente3226/123456/169821
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO Xtreme HD" tvg-logo="https://images2.imgbox.com/d2/38/0FtULt6G_o.png" group-title="CANALES PREMIUN",HBO Xtreme
+http://castlempire.site:8080/cliente3226/123456/56378
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO Plus" tvg-logo="https://images2.imgbox.com/72/94/kAP1dmLX_o.png" group-title="CANALES PREMIUN",HBO Plus
+http://castlempire.site:8080/cliente3226/123456/56389
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | HBO Pop" tvg-logo="https://images2.imgbox.com/f9/f4/2TW7vB6j_o.png" group-title="CANALES PREMIUN",HBO Pop
+http://castlempire.site:8080/cliente3226/123456/169824
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | MOREMAX" tvg-logo="https://images2.imgbox.com/a1/9c/H5uNYHiu_o.png" group-title="CANALES PREMIUN",MOREMAX
+http://castlempire.site:8080/cliente3226/123456/169814
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | OUTERMAX" tvg-logo="https://images2.imgbox.com/b9/1f/cVrUx4Vm_o.png" group-title="CANALES PREMIUN",ACTIONMAX
+http://castlempire.site:8080/cliente3226/123456/169813
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | PARAMOUNT CHANNEL HD" tvg-logo="https://images2.imgbox.com/2a/8d/Z1L4xckj_o.png" group-title="CANALES PREMIUN",PARAMOUNT CHANNEL
+http://castlempire.site:8080/cliente3226/123456/169784
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SONY HD" tvg-logo="https://images2.imgbox.com/9a/48/XRewOkPM_o.png" group-title="CANALES PREMIUN",SONY
+http://castlempire.site:8080/cliente3226/123456/56368
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SPACE HD" tvg-logo="https://images2.imgbox.com/db/5f/03Hgos4z_o.png" group-title="CANALES PREMIUN",SPACE
+http://castlempire.site:8080/cliente3226/123456/56369
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | STAR CHANNEL HD" tvg-logo="https://images2.imgbox.com/72/c4/LNwuvPFZ_o.png" group-title="CANALES PREMIUN",STAR CHANNEL
+http://castlempire.site:8080/cliente3226/123456/172781
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | Studio Universal HD" tvg-logo="https://images2.imgbox.com/b2/20/5eD5BXoq_o.png" group-title="CANALES PREMIUN",Studio Universal
+http://castlempire.site:8080/cliente3226/123456/172792
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | SyFy FHD" tvg-logo="https://images2.imgbox.com/70/8a/O4Hg1k28_o.png" group-title="CANALES PREMIUN",SyFy
+http://castlempire.site:8080/cliente3226/123456/190773
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | TBS HD" tvg-logo="https://images2.imgbox.com/74/4b/fhFdorSC_o.png" group-title="CANALES PREMIUN",TBS
+http://castlempire.site:8080/cliente3226/123456/172791
+#EXTINF:-1 tvg-id="" tvg-name="CINE HD | UNIVERSAL CHANNEL (MX)" tvg-logo="https://images2.imgbox.com/dc/ee/Gln7s4Oy_o.png" group-title="CANALES PREMIUN",UNIVERSAL CHANNEL
+http://castlempire.site:8080/cliente3226/123456/56375
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CRIME\" tvg-logo="https://images2.imgbox.com/87/4b/fJT2hVJW_o.png" group-title="CANALES PREMIUN",UNIVERSAL CRIME
+http://castlempire.site:8080/cliente3226/123456/204895
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL | PREMIERE FHD\" tvg-logo="https://images2.imgbox.com/08/23/JWzBOXwm_o.png" group-title="CANALES PREMIUN",UNIVERSAL PREMIERE
+http://castlempire.site:8080/cliente3226/123456/204896
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL | COMEDY FHD\" tvg-logo="https://images2.imgbox.com/9a/d7/LAf6M91k_o.png" group-title="CANALES PREMIUN",UNIVERSAL COMEDY
+http://castlempire.site:8080/cliente3226/123456/204897
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL | CINEMA FHD\" tvg-logo="https://images2.imgbox.com/d0/75/WOB31jBv_o.png" group-title="CANALES PREMIUN",UNIVERSAL CINEMA
+http://castlempire.site:8080/cliente3226/123456/204898
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL | REALITY FHD\" tvg-logo="https://images2.imgbox.com/24/35/fYHc8mPW_o.png" group-title="CANALES PREMIUN",UNIVERSAL REALITY
+http://castlempire.site:8080/cliente3226/123456/204899
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Glitz " tvg-logo="https://images2.imgbox.com/7b/8e/xHEIXLuR_o.png" group-title="*ENTRETENIMIENTO*",Glitz 
+http://castlempire.site:8080/cliente3226/123456/169872
+#EXTINF:-1 tvg-id="" tvg-name="CUL | TRU TV " tvg-logo="https://images2.imgbox.com/54/77/swe5qIsS_o.png" group-title="*ENTRETENIMIENTO*",CUL | TRU TV 
+http://castlempire.site:8080/cliente3226/123456/169886
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central (Lat) " tvg-logo="https://images2.imgbox.com/9b/58/SsaZrPaR_o.png" group-title="*ENTRETENIMIENTO*",Comedy Central 
+http://castlempire.site:8080/cliente3226/123456/169871
+#EXTINF:-1 tvg-id="" tvg-name="Discovery TLC " tvg-logo="https://images2.imgbox.com/a5/25/SPDNZyJl_o.png" group-title="*ENTRETENIMIENTO*",Discovery TLC 
+http://castlempire.site:8080/cliente3226/123456/169851
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment " tvg-logo="https://images2.imgbox.com/93/92/GwGT4ooE_o.png" group-title="*ENTRETENIMIENTO*",E! Entertainment 
+http://castlempire.site:8080/cliente3226/123456/169867
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet (Lat) " tvg-logo="https://images2.imgbox.com/a4/f7/6Zl7CZXV_o.png" group-title="*ENTRETENIMIENTO*",El Gourmet 
+http://castlempire.site:8080/cliente3226/123456/169878
+#EXTINF:-1 tvg-id="" tvg-name="MEX | Hola TV " tvg-logo="https://images2.imgbox.com/d3/9c/kaUnZ08I_o.png" group-title="*ENTRETENIMIENTO*",MEX | Hola TV 
+http://castlempire.site:8080/cliente3226/123456/169873
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime " tvg-logo="https://images2.imgbox.com/94/ff/hPTBho2X_o.png" group-title="*ENTRETENIMIENTO*",Lifetime 
+http://castlempire.site:8080/cliente3226/123456/169869
+#EXTINF:-1 tvg-id="" tvg-name="MAS CHIC (MX) " tvg-logo="https://images2.imgbox.com/1d/18/T2mhgcEG_o.png" group-title="*ENTRETENIMIENTO*",MAS CHIC 
+http://castlempire.site:8080/cliente3226/123456/169881
+#EXTINF:-1 tvg-id="" tvg-name="Unicable " tvg-logo="https://images2.imgbox.com/9c/a4/4QOQXFSo_o.png" group-title="*ENTRETENIMIENTO*",Unicable 
+http://castlempire.site:8080/cliente3226/123456/169883
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://images2.imgbox.com/11/d9/PkFc9tcR_o.png" group-title="*ENTRETENIMIENTO*",HGTV
+http://castlempire.site:8080/cliente3226/123456/190804
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="RadioSanBorjaTV" tvg-name="RadioSanBorjaTV " tvg-logo="https://graph.facebook.com/radiosanborja/picture?width=320&height=320" group-title="MUSICA",RADIO SAN BORJA
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="BestCableMasCumbia.pe" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="MUSICA",Best Cable Más Cumbia (720p)
+https://tv.inka.net.pe/mascumbiatvonline/mascumbiatvonline/index.m3u8
+#EXTINF:-1 tvg-id="BestCableMusic.pe" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="MUSICA",Best Cable Music (720p)
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="MUSICA",Retro Plus 2 HD
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-logo="https://thumbs2.imgbox.com/65/ac/C9Hc7DsW_t.png" group-title="MUSICA",Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-aVUyvrWNyxM/W2-NMYAY24I/AAAAAAAAcSo/VHTyTsFj5IUXT_0535sc-sxlySNTatDKQCLcBGAs/s1600/maxresdefault.jpg" group-title="MUSICA", TECKNO
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/68/ea/Wy6rcoAe_o.png" group-title="MUSICA", MUSICTOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1198422677_b964000_sleng.m3u8
+#EXTINF:-1 tvg-id="REWIND" tvg-name="REWIND" tvg-logo="https://www.mystateline.com/wp-content/uploads/sites/17/2021/08/rewind-tv.jpg" group-title="MUSICA",REWIND
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1911035927.m3u8
+#EXTINF:-1 tvg-id="HatunTV.pe" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhI0HKESXrVQ8-ktPCeRap6-cP_4upPtEpAlwPa=s88-c-k-c0x00ffffff-no-rj" group-title="MUSICA",Hatun TV (720p)
+https://tv.inka.net.pe/bestcablehatuntv/bestcablehatuntv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karibeña TV  | PE" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg" group-title="MUSICA",Karibeña TV
+https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
+#EXTINF:-1 tvg-id="RadioChalaca.pe" tvg-logo="https://i.imgur.com/KZHsrU4.png" group-title="MUSICA",Radio Chalaca (720p)
+https://megastreamm.com:3611/stream/play.m3u8
+#EXTINF:-1 tvg-id="AUTENTICA TV" tvg-name="AUTENTICA" tvg-logo="https://antenna-group.com/wp-content/uploads/2020/03/11_ROCK_TV_A-1.jpg" group-title="MUSICA", ROCK TV
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w1352191896.m3u8?PlaylistM3UCL
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sport " tvg-logo="http://castlempire.site:8080/images/9cf8886ad93cb12600a72949c8ce4039.jpg" group-title="⚽ DEPORTES ⚽",Claro Sport 
+http://castlempire.site:8080/cliente3226/123456/169912
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Peru" tvg-logo="https://images2.imgbox.com/2a/c1/LmkNFjUQ_o.png" group-title="⚽ DEPORTES ⚽",Directv Sports Peru
+http://castlempire.site:8080/cliente3226/123456/170111
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS 1 " tvg-logo="https://images2.imgbox.com/2a/c1/LmkNFjUQ_o.png" group-title="⚽ DEPORTES ⚽",DIRECTV SPORTS  
+http://castlempire.site:8080/cliente3226/123456/169960
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORT 2" tvg-logo="https://images2.imgbox.com/dc/6f/N5KOhojg_o.png" group-title="⚽ DEPORTES ⚽",DIRECTV SPORT 2
+http://castlempire.site:8080/cliente3226/123456/169961
+#EXTINF:-1 tvg-id="" tvg-name="DIRECTV SPORTS PLUS" tvg-logo="https://images2.imgbox.com/1a/10/fH6dOqjw_o.png" group-title="⚽ DEPORTES ⚽",DIRECTV SPORTS PLUS
+http://castlempire.site:8080/cliente3226/123456/169962
+#EXTINF:-1 tvg-id="" tvg-name="Espn Peru" tvg-logo="https://images2.imgbox.com/8a/ac/oLDHPbfo_o.png" group-title="⚽ DEPORTES ⚽",Espn Peru
+http://castlempire.site:8080/cliente3226/123456/170114
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://images2.imgbox.com/8a/ac/oLDHPbfo_o.png" group-title="⚽ DEPORTES ⚽",ESPN
+http://castlempire.site:8080/cliente3226/123456/169994
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  2 SUR F" tvg-logo="https://images2.imgbox.com/18/34/St2gDHrO_o.png" group-title="⚽ DEPORTES ⚽",ESPN  2 
+http://castlempire.site:8080/cliente3226/123456/169969
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 Arg" tvg-logo="https://images2.imgbox.com/7a/1a/Kdxo9iHl_o.png" group-title="⚽ DEPORTES ⚽",ESPN 3 Arg
+http://castlempire.site:8080/cliente3226/123456/169967
+#EXTINF:-1 tvg-id="" tvg-name="Espn +" tvg-logo="https://images2.imgbox.com/9d/7f/KLvSznHr_o.png" group-title="⚽ DEPORTES ⚽",Espn +
+http://castlempire.site:8080/cliente3226/123456/169997
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network" tvg-logo="https://media.licdn.com/dms/image/C4D0BAQGF3AbKOnMKFw/company-logo_200_200/0?e=2159024400&v=beta&t=s5TI6p82ni-QS6E-xmziuEjkBC_DpXyVJAkOBlkkMfg" group-title="⚽ DEPORTES ⚽",Fight Network
+http://castlempire.site:8080/cliente3226/123456/169998
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports" tvg-logo="https://images2.imgbox.com/1a/b4/L2gzOgcE_o.png" group-title="⚽ DEPORTES ⚽",Fox Sports
+http://castlempire.site:8080/cliente3226/123456/169890
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 MX" tvg-logo="https://images2.imgbox.com/1a/b4/L2gzOgcE_o.png" group-title="⚽ DEPORTES ⚽",Fox Sports MX
+http://castlempire.site:8080/cliente3226/123456/169894
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2  Arg" tvg-logo="https://images2.imgbox.com/e3/35/47rUA410_o.png" group-title="⚽ DEPORTES ⚽",FOX SPORTS 2  Arg
+http://castlempire.site:8080/cliente3226/123456/169955
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3" tvg-logo="https://images2.imgbox.com/39/37/OuN9WJCC_o.png" group-title="⚽ DEPORTES ⚽",Fox Sports 3 Lat.
+http://castlempire.site:8080/cliente3226/123456/169892
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 3  Arg" tvg-logo="https://images2.imgbox.com/39/37/OuN9WJCC_o.png" group-title="⚽ DEPORTES ⚽",FOX SPORTS 3  Arg
+http://castlempire.site:8080/cliente3226/123456/169957
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 MX" tvg-logo="https://images2.imgbox.com/39/37/OuN9WJCC_o.png" group-title="⚽ DEPORTES ⚽",Fox Sports 3 MX
+http://castlempire.site:8080/cliente3226/123456/169896
+#EXTINF:-1 tvg-id="" tvg-name="Fox sports Premiun  Ligero" tvg-logo="https://images2.imgbox.com/d0/f2/dHNXOwxB_o.png" group-title="⚽ DEPORTES ⚽",Fox sports Premiun
+http://castlempire.site:8080/cliente3226/123456/169958
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Win Sports" tvg-logo="https://images2.imgbox.com/13/7c/7uNskYE8_o.png" group-title="⚽ DEPORTES ⚽",Win Sports
+http://castlempire.site:8080/cliente3226/123456/169984
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES | Win Sports +" tvg-logo="https://images2.imgbox.com/c7/2f/ayqYcKms_o.png" group-title="⚽ DEPORTES ⚽",Win Sports +
+http://castlempire.site:8080/cliente3226/123456/170060
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA MULTI 1 " tvg-logo="http://castlempire.site:8080/images/86d306539b2719121379e80234b4235c.jpg" group-title="⚽ DEPORTES ⚽",MOVISTAR LA LIGA
+http://castlempire.site:8080/cliente3226/123456/169936
+#EXTINF:-1 tvg-id="" tvg-name="TUDN" tvg-logo="https://images2.imgbox.com/67/54/PKZah3B3_o.png" group-title="⚽ DEPORTES ⚽",TUDN
+http://castlempire.site:8080/cliente3226/123456/169887
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports" tvg-logo="https://images2.imgbox.com/db/11/FMItvAal_o.png" group-title="⚽ DEPORTES ⚽",TyC Sports
+http://castlempire.site:8080/cliente3226/123456/169975
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV F" tvg-logo="https://images2.imgbox.com/f6/25/kyX5fAXs_o.png" group-title="⚽ DEPORTES ⚽",BARCA TV
+http://castlempire.site:8080/cliente3226/123456/182909
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV " tvg-logo="http://castlempire.site:8080/images/3ebecf8b7038e7ef0b1005ef4ec7473f.jpg" group-title="⚽ DEPORTES ⚽",REAL MADRID TV 
+http://castlempire.site:8080/cliente3226/123456/182910
+#EXTINF:-1 tvg-id="" tvg-name="TOROS " tvg-logo="https://images2.imgbox.com/d3/be/nbKO8yvv_o.png" group-title="⚽ DEPORTES ⚽",TOROS 
+http://castlempire.site:8080/cliente3226/123456/182905
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://images2.imgbox.com/7c/83/JRuOWjaN_o.png" group-title="*CULTURA*",ANIMAL PLANET
+http://castlempire.site:8080/cliente3226/123456/169836
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://images2.imgbox.com/dc/48/1gAWkqwX_o.png" group-title="*CULTURA*",DISCOVERY CHANNEL
+http://castlempire.site:8080/cliente3226/123456/169839
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY H&H" tvg-logo="https://images2.imgbox.com/fb/7a/zC1OJI79_o.png" group-title="*CULTURA*",DISCOVERY H&H
+http://castlempire.site:8080/cliente3226/123456/171002
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://images2.imgbox.com/62/ed/fE3gGJwn_o.png" group-title="*CULTURA*",DISCOVERY SCIENCE
+http://castlempire.site:8080/cliente3226/123456/171004
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://images2.imgbox.com/69/37/Srjw5pKQ_o.png" group-title="*CULTURA*",DISCOVERY TURBO
+http://castlempire.site:8080/cliente3226/123456/171008
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="https://images2.imgbox.com/80/da/L7diYcw8_o.png" group-title="*CULTURA*",DISCOVERY WORLD
+http://castlempire.site:8080/cliente3226/123456/171010
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://images2.imgbox.com/53/c6/GRoQRUVQ_o.png" group-title="*CULTURA*",H2
+http://castlempire.site:8080/cliente3226/123456/171014
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL" tvg-logo="https://images2.imgbox.com/86/19/9raaPwFZ_o.png" group-title="*CULTURA*",HISTORY CHANNEL
+http://castlempire.site:8080/cliente3226/123456/171016
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://images2.imgbox.com/7b/36/1eRnWQyI_o.png" group-title="*CULTURA*",INVESTIGATION DISCOVERY
+http://castlempire.site:8080/cliente3226/123456/169845
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO" tvg-logo="https://images2.imgbox.com/0a/64/15oXt7Ew_o.png" group-title="*CULTURA*",NATGEO
+http://castlempire.site:8080/cliente3226/123456/171024
+#EXTINF:-1 tvg-id="" tvg-name="NATGEO WILD" tvg-logo="https://images2.imgbox.com/02/27/tOERNj8W_o.png" group-title="*CULTURA*",NATGEO WILD
+http://castlempire.site:8080/cliente3226/123456/171023
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/42/71/hv3wvkqO_o.png" group-title="*CULTURA*", LOVE NATURE
+https://bamus-spa-roku.amagi.tv/playlist1080-p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Camaras Escondidas TV" tvg-logo="http://castlempire.site:8080/images/3dfaf55c950687fde34aa6c370234e2d.png" group-title="⭐️24/7 VIP⭐️",Camaras Escondidas TV
+http://castlempire.site:8080/cliente3226/123456/186810
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson Retro." tvg-logo="http://castlempire.site:8080/images/e449f894f5eb3d87de1e8257f2b77ae3.png" group-title="⭐️24/7 VIP⭐️",Los Simpson Retro.
+http://castlempire.site:8080/cliente3226/123456/186851
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Horror" tvg-logo="http://castlempire.site:8080/images/c7025abbaf82c32ac5702cd4d26b34ad.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons Horror
+http://castlempire.site:8080/cliente3226/123456/186852
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons Latinos" tvg-logo="http://castlempire.site:8080/images/0f2a5dd4028d24b3f820b25a20955996.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons Latinos
+http://castlempire.site:8080/cliente3226/123456/186853
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="http://castlempire.site:8080/images/270626fbb85e452921a32d29f0c078f5.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons
+http://castlempire.site:8080/cliente3226/123456/186854
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Los Simpsons S01 a S20" tvg-logo="http://castlempire.site:8080/images/8ded64ca24838ee2582e2173f877ac28.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons S01 a S20
+http://castlempire.site:8080/cliente3226/123456/196925
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Los Simpsons S20 a S30" tvg-logo="http://castlempire.site:8080/images/cea271f55edbace713252c1b486fe58d.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons S20 a S30
+http://castlempire.site:8080/cliente3226/123456/196926
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Pokemon (e)(SD)" tvg-logo="http://castlempire.site:8080/images/00bfc8c729f5d4d529a412b12c58ddd2.png" group-title="⭐️24/7 VIP⭐️",Pokemon
+http://castlempire.site:8080/cliente3226/123456/196962
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Pokemon Peliculas" tvg-logo="http://castlempire.site:8080/images/b5ec6d27643dd08a7863158cc42dee96.png" group-title="⭐️24/7 VIP⭐️",Pokemon Peliculas
+http://castlempire.site:8080/cliente3226/123456/196963
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Dragon Ball (e)" tvg-logo="http://castlempire.site:8080/images/399c6331a0413c28d5fe6e9fba246f70.png" group-title="⭐️24/7 VIP⭐️",Dragon Ball
+http://castlempire.site:8080/cliente3226/123456/196829
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Dragon Ball GT (e)" tvg-logo="http://castlempire.site:8080/images/4689b1b182d8d3b5121d3d47916dab39.png" group-title="⭐️24/7 VIP⭐️",Dragon Ball GT
+http://castlempire.site:8080/cliente3226/123456/196830
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Dragon Ball Super (e)(720)" tvg-logo="http://castlempire.site:8080/images/e393a5bc9e78f46ab9d441bc8a0cd807.png" group-title="⭐️24/7 VIP⭐️", Dragon Ball Super
+http://castlempire.site:8080/cliente3226/123456/196831
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Dragon Ball Z - Saga Cell (e)(720)" tvg-logo="http://castlempire.site:8080/images/8d27600b0cae5308441ddf6d9bb3c74c.png" group-title="⭐️24/7 VIP⭐️",Dragon Ball Z - Saga Cell
+http://castlempire.site:8080/cliente3226/123456/196832
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Dragon Ball Z - Saga de Freezer (e)(720)" tvg-logo="http://castlempire.site:8080/images/ad4f042b97fda75e57646b2df2738f35.png" group-title="⭐️24/7 VIP⭐️",Dragon Ball Z - Saga de Freezer
+http://castlempire.site:8080/cliente3226/123456/196833
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Dragon Ball Z - Saga Majin Boo (e)(720)" tvg-logo="http://castlempire.site:8080/images/f65e9d28d81125139130f4e64d562c8f.png" group-title="⭐️24/7 VIP⭐️",Dragon Ball Z - Saga Majin Boo
+http://castlempire.site:8080/cliente3226/123456/196834
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL Z" tvg-logo="http://castlempire.site:8080/images/9735f9093a038d890b0efdae9bbc7d5f.png" group-title="⭐️24/7 VIP⭐️",DRAGON BALL Z
+http://castlempire.site:8080/cliente3226/123456/192439
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL GT" tvg-logo="http://castlempire.site:8080/images/c4769eea9fc435835bf4193dd4becee6.png" group-title="⭐️24/7 VIP⭐️",DRAGON BALL GT
+http://castlempire.site:8080/cliente3226/123456/192440
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DRAGON BALL Z" tvg-logo="http://castlempire.site:8080/images/9735f9093a038d890b0efdae9bbc7d5f.png" group-title="⭐️24/7 VIP⭐️",DRAGON BALL Z
+http://castlempire.site:8080/cliente3226/123456/192444
+#EXTINF:-1 tvg-id="" tvg-name="24/7  MARVEL STUDIOS" tvg-logo="http://castlempire.site:8080/images/a6028d9fa014cb8f6a9e80a8679d427d.png" group-title="⭐️24/7 VIP⭐️",MARVEL STUDIOS
+http://castlempire.site:8080/cliente3226/123456/192450
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | DC Comics Peliculas (e)(720)" tvg-logo="http://castlempire.site:8080/images/d6df385a221bf779c5e5f89446b5cd4d.png" group-title="⭐️24/7 VIP⭐️",DC Comics Peliculas
+http://castlempire.site:8080/cliente3226/123456/196812
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | DC Comics Series (e)(720)" tvg-logo="http://castlempire.site:8080/images/eb1e9c1b5d6ef42dd64f1b1aabacaa1e.png" group-title="⭐️24/7 VIP⭐️",DC Comics Series
+http://castlempire.site:8080/cliente3226/123456/196813
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | DC Lego (e)(720)" tvg-logo="http://castlempire.site:8080/images/796846f93f825af1ae3221ae07f2e58f.png" group-title="⭐️24/7 VIP⭐️",DC Lego
+http://castlempire.site:8080/cliente3226/123456/196814
+EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Universo DC (e)(1080)" tvg-logo="http://castlempire.site:8080/images/b2114092484deb967cfdef798579f591.png" group-title="⭐️24/7 VIP⭐️",Universo DC
+http://castlempire.site:8080/cliente3226/123456/197002
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Universo Marvel (e)(1080)" tvg-logo="http://castlempire.site:8080/images/0e561187d51609f59a35e1079f062c7a.png" group-title="⭐️24/7 VIP⭐️",Universo Marvel
+http://castlempire.site:8080/cliente3226/123456/197003
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Friends (e)(720)" tvg-logo="http://castlempire.site:8080/images/28f20a02bf8a021fab4fcec48afb584e.png" group-title="⭐️24/7 VIP⭐️",Friends
+http://castlempire.site:8080/cliente3226/123456/196865
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Futurama (e)(720)" tvg-logo="http://castlempire.site:8080/images/d09066cfeef4736a5b6f15f8e09205a0.png" group-title="⭐️24/7 VIP⭐️",Futurama
+http://castlempire.site:8080/cliente3226/123456/196867
