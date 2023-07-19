@@ -1,20 +1,537 @@
 #EXTM3U
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca1.png",001 Azteca Uno (XHDFTDT)
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xew.png",002 Las Estrellas (XEW)
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="Sports",WIN SPORTS + TV * |HD|
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o6yPlegcYwLjq40HmnXUREio/ts
-#EXTINF:-1 xui-id="723" tvg-id="WINSPRT" tvg-name="CO: Win Sports + FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="|CO| Colombia",CO: Win Sports + FHD
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o65oJfGv-CDjQaQNIyHDDRfA/ts
-#EXTINF:-1 xui-id="722" tvg-id="WINSPRT" tvg-name="CO | Win Sports +" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj7G-orL8Nigez_GcqXka8vNVe7TO1ClIOt0EZF3sS-BkqMI3pfkYkATiz1Dip3nOGrh8-SCggK9QE1Be-Tbwf6Q.png" group-title="|CO| Colombia",CO | Win Sports +
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o66wHDsvduFdU1-T63_iFcbc/ts
-#EXTINF:-1 xui-id="725" tvg-id="WINSPRT" tvg-name="CO: Win Sports + HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WinSports2017.png/1200px-WinSports2017.png" group-title="|CO| Colombia",CO: Win Sports + HD
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o67o3HH-8IDsf0oOb7c-OG2s/ts
-#EXTINF:-1 xui-id="721" tvg-id="WINSPRT" tvg-name="CO: Win Sports" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj7G-orL8Nigez_GcqXka8vNVe7TO1ClIOt0EZF3sS-BkqMI3pfkYkATiz1Dip3nOGrh8-SCggK9QE1Be-Tbwf6Q.png" group-title="|CO| Colombia",CO: Win Sports
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o6zclSX_ZXq5criVlt5OUVzc/ts
-#EXTINF:-1 xui-id="724" tvg-id="WINSPRT" tvg-name="CO: Win Sports + HD" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJj7G-orL8Nigez_GcqXka8vNVe7TO1ClIOt0EZF3sS-BkqMI3pfkYkATiz1Dip3nOGrh8-SCggK9QE1Be-Tbwf6Q.png" group-title="|CO| Colombia",CO: Win Sports + HD
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o64I6EnMAPnixWQ5F0lx27FQ/ts
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/1200px-Win_Sports%2B_logo.svg.png" group-title="Sports",WIN SPORTS + TV * |HD|
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o69ENK7GU-QKgK9EXVVV4S2s/ts
-#EXTINF:-1 xui-id="804" tvg-id="" tvg-name="DEP: Winsport" tvg-logo="http://iptvtree.es:80/images/ygrSuMQqK46ny9qvj6luEClwDMqOrjkhr0C8L6Eg88NUZOhXx-Vi8MXQ2TMOcPPbUYPQ0SZf147sZMBV9HBrPNiFGGEvxTaVpBKqRbnr_Vs.png" group-title="⚽|LAT| Deportes Latino⚽",DEP: Winsport
-http://iptvtree.es:80/play/LF61B_hr0DE23myYZ20o60eFA2y8yXrfLWOFq0I3JVk/ts
-#EXTINF:-1 tvg-id="WinSportsPlus.co" tvg-logo="https://i.imgur.com/tKDzu9t.png" group-title="Sports",WIN SPORTS + TV * |HD|
-http://fortv.cc:8080/Rock/hastings420/78697
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/azteca7.jpg",Azteca 7 (HD)
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 ,104 ForoTV
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/adn.jpg",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 ,N+
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_6.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/RZhSRBKV/milemnio-tv.png",625 Milenio TV HD (MILENHD)
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tvmasver.jpg",TV MAS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 ,AMX Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeq.png",NU9VE
+http://elmonkey.us:25461/Victor/Victor/85
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/unicable.png",Unicable
+http://190.61.102.67:31589/play/a08f/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhctmx.png",Imagen Televisión (HD)
+http://elmonkey.us:25461/Victor/Victor/94
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhaw.png",Canal 6 CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xhgem.jpg",Mexiquense Televisión
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/teleformula.png",Teleformula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 ,Nacionales Univision
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/telem.png",Telemundo Internacional
+http://181.189.243.254:8000/play/a0q9/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/xeipn.png",Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/dw.png",DW (Español)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnne.png",CNN En Español
+https://dsuub0ebctcrw.cloudfront.net/dist/samsungtv/358/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cnn.png",CNN International (HD)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/j2q0SHhd/estrella-news.png",ESTRELLA NEWS HD
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/f24.png",France 24 (Español)
+http://576209368611339758.ofio.xyz:80/play/HCMNP577MK/1470603756/339758.ts
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rt.png",RT (Español)
+https://rt-esp.rttv.com:443/live/rtesp/playlist_4500Kb.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bloom.png",Bloomberg
+https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/corazon.png",Corazón
+http://elmonkey.us:25461/Victor/Victor/23
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/gourmet.png",ElGourmet
+http://elmonkey.us:25461/Victor/Victor/31
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ae.png",A&E
+http://50.7.66.234:8080/monicaferraz/518260/1156013
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hola.jpg",¡Hola! TV
+http://elmonkey.us:25461/Victor/Victor/93
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tbs.png",TBS
+http://elmonkey.us:25461/Victor/Victor/119
+#EXTINF:-1 ,AXN
+http://50.7.66.234:8080/monicaferraz/518260/1155784
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/bio.png",Lifetime
+http://elmonkey.us:25461/Victor/Victor/95
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/eent.png",E!
+http://45.166.92.22:58001/play/a00n/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/hyh.png",Discovery Home & Health
+http://45.166.92.22:58001/play/a027/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/casaclub.png",Mas Chic
+http://elmonkey.us:25461/Victor/Victor/96
+#EXTINF:-1  tvg-logo="http://shashe.dianshiwang.vip:27000/images/7a5262aeaebfd61a28106eee27a60dc6.jpg",HBO 2
+http://elmonkey.us:25461/Victor/Victor/88
+#EXTINF:-1  tvg-logo="https://www.totalplay.com.mx/images/logos/canales/hbomax/hbo_family.png",HBO Family
+http://elmonkey.us:25461/Victor/Victor/89
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",HBO+
+http://elmonkey.us:25461/Victor/Victor/90
+#EXTINF:-1  tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_signature-mediano.png",HBO Signature
+http://elmonkey.us:25461/Victor/Victor/246
+#EXTINF:-1  tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_xtreme-mediano.png",HBO Xtreme
+http://elmonkey.us:25461/Victor/Victor/97
+#EXTINF:-1  tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_mundi-mediano.png",HBO Mundi
+http://45.90.105.74:25461/live/budtvsports/wTu27rKVNU/30347.m3u8
+#EXTINF:-1  tvg-logo="https://cdn.mitvstatic.com/channels/ar_max-up_m.png",HBO POP
+http://elmonkey.us:25461/Victor/Victor/98
+#EXTINF:-1 ,Pluto Familia
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 ,Pluto TV Cine Suspenso
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tnts.png",TNT Series
+http://181.189.243.254:8000/play/a0ta/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/param.png",Paramount Network
+http://50.7.66.234:8080/monicaferraz/518260/1155799
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/space.PNG",Space
+http://elmonkey.us:25461/Victor/Victor/113
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/studio.png",Studio Universal
+http://elmonkey.us:25461/Victor/Victor/116
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/universal.png",Universal
+http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/364
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cc.png",Cinecanal
+http://50.7.66.234:8080/monicaferraz/518260/1155785
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgc2.png",Golden Edge
+http://190.95.220.212:8000/play/a01k/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cgchd.png",Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+#EXTINF:-1 ,My Time
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cmax.png",Cinemax
+http://50.7.66.234:8080/monicaferraz/518260/1068350
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/amc.png",AMC
+http://50.7.66.234:8080/monicaferraz/518260/4118
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tcm.png",TCM
+http://elmonkey.us:25461/Victor/Victor/120
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/syfy.png",SYFY
+http://elmonkey.us:25461/Victor/Victor/118
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cinema.png",Cinema
+http://elmonkey.us:25461/Victor/Victor/22
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/star.png",Star Channel
+http://50.7.66.234:8080/monicaferraz/518260/4121
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3c.png",A3 Cine
+https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/a3s.png",A3 Series
+http://livex.pop-app.live/s4n/poptv/AntenaSeries.TecnoByte/chunks.m3u8
+#EXTINF:-1 ,#EXTGRP:Ciencia
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/history.png",History
+http://168.194.171.33:8000/play/a05m/index.m3u8
+#EXTINF:-1  tvg-logo="http://shashe.dianshiwang.vip:27000/images/650cb31b47c46afc1f8e843d9e726802.jpg",History 2
+http://190.61.102.67:31589/play/a00v/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png",Animal Planet
+http://181.189.243.254:8000/play/a0q4/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/disc.png",Discovery
+http://zeustv.vip:8080/cuentapremium22/Nd7ANcYN9N7E/336
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/sci.png",Discovery Science
+http://181.189.243.254:8000/play/a0ny/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ngc.png",National Geographic
+http://elmonkey.us:25461/Victor/Victor/102
+#EXTINF:-1 ,#EXTGRP:Infantiles
+http://elmonkey.us:25461/Victor/Victor/30
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/cn.png",Cartoon Network
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/baby.png",Baby TV
+http://181.189.243.254:8000/play/a0ns/index.m3u8
+#EXTINF:-1 ,KIDS
+https://linear-355.frequency.stream/dist/localnow/355/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/djr.png",Disney Junior
+http://elmonkey.us:25461/Victor/Victor/27
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/nick.png",Nick
+http://elmonkey.us:25461/Victor/Victor/105
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/njr.png",Nick Jr.
+http://elmonkey.us:25461/Victor/Victor/106
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/rms.png",Telehit Música
+http://elmonkey.us:25461/Victor/Victor/122
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tlr.jpg",Teleritmo
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/tdn.png",⚽ TUDN (HD)
+http://disfruta.net:80/live/kikeledesma/dFvFKDYx57/1219.m3u8?sd=10&dw=0&rebase=on
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png",⚽ DIRECTV SPORTS
+http://allstar.is-by.us:25461/Oscar10/eKDukdxk4o/73325
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/claro.png",⚽ Claro Sports (HD)
+https://d3q84yclyte826.cloudfront.net/out/v1/47af0926366f47cea7661fa9c13ff203/index.m3u8
+#EXTINF:-1 ,#EXTGRP:+18
+http://94.229.250.73:8008/play/a002
+#EXTINF:-1 ,⛔ Extasy4k
+http://213.81.133.133:8080/extasy4k/index.m3u8
+#EXTINF:-1 ,⛔ Hustler HD
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/244/index.m3u8
+#EXTINF:-1 ,⛔ PentHouse Reality
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/5012/index.m3u8
+#EXTINF:-1 ,⛔ Redlight
+http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/242/index.m3u8
+#EXTINF:-1 ,Extasy 4K
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/5014/index.m3u8
+#EXTINF:-1 ,XXL orig
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/9345/index.m3u8
+#EXTINF:-1 ,EXXXOTICA HD orig
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/9346/index.m3u8
+#EXTINF:-1 ,Shot TV orig
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/9347/index.m3u8
+#EXTINF:-1 ,Eroxxx HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/5015/index.m3u8
+#EXTINF:-1 ,Playboy
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/527/index.m3u8
+#EXTINF:-1 ,Русская Ночь
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/147/index.m3u8
+#EXTINF:-1 ,Brazzers TV Europe
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/910/index.m3u8
+#EXTINF:-1 ,Шалун
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/922/index.m3u8
+#EXTINF:-1 ,Candy
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/923/index.m3u8
+#EXTINF:-1 ,Penthouse Passion HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/1073/index.m3u8
+#EXTINF:-1 ,Blue Hustler
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/1064/index.m3u8
+#EXTINF:-1 ,Barely legal
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/871/index.m3u8
+#EXTINF:-1 ,Sexto Senso
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/875/index.m3u8
+#EXTINF:-1 ,SCT
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/876/index.m3u8
+#EXTINF:-1 ,PRIVE
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/877/index.m3u8
+#EXTINF:-1 ,Dorcel TV FHD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/878/index.m3u8
+#EXTINF:-1 ,Redlight HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/242/index.m3u8
+#EXTINF:-1 ,Private TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/243/index.m3u8
+#EXTINF:-1 ,Hustler HD Europe
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/244/index.m3u8
+#EXTINF:-1 ,Dorcel TV HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/245/index.m3u8
+#EXTINF:-1 ,Pink\'o TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/874/index.m3u8
+#EXTINF:-1 ,Нюарт TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/2057/index.m3u8
+#EXTINF:-1 ,FrenchLover
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/2160/index.m3u8
+#EXTINF:-1 ,O-la-la
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/2161/index.m3u8
+#EXTINF:-1 ,Vivid Red HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/2162/index.m3u8
+#EXTINF:-1 ,Exxxotica HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/2397/index.m3u8
+#EXTINF:-1 ,XXL
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/5009/index.m3u8
+#EXTINF:-1 ,Penthouse Passion
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/5010/index.m3u8
+#EXTINF:-1 ,Penthouse Gold HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/5011/index.m3u8
+#EXTINF:-1 ,Penthouse Quickies 1300k
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/5012/index.m3u8
+#EXTINF:-1 ,Penthouse Quickies HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/5013/index.m3u8
+#EXTINF:-1 ,A3 Bikini
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6165/index.m3u8
+#EXTINF:-1 ,Adult Time
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6166/index.m3u8
+#EXTINF:-1 ,Anal Red TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6167/index.m3u8
+#EXTINF:-1 ,Analized HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6168/index.m3u8
+#EXTINF:-1 ,AST TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6169/index.m3u8
+#EXTINF:-1 ,AST TV 2
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6170/index.m3u8
+#EXTINF:-1 ,Babes HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6171/index.m3u8
+#EXTINF:-1 ,Babes TV HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6172/index.m3u8
+#EXTINF:-1 ,Bang Bros HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6173/index.m3u8
+#EXTINF:-1 ,Bang!
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6174/index.m3u8
+#EXTINF:-1 ,Big Ass Adult TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6175/index.m3u8
+#EXTINF:-1 ,Big Dick Red TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6176/index.m3u8
+#EXTINF:-1 ,Big Tits Adult TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6177/index.m3u8
+#EXTINF:-1 ,Blacked HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6178/index.m3u8
+#EXTINF:-1 ,Blonde Adult TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6179/index.m3u8
+#EXTINF:-1 ,Blowjob Red TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6180/index.m3u8
+#EXTINF:-1 ,Brazzers eXXtra
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6181/index.m3u8
+#EXTINF:-1 ,Brazzers HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6182/index.m3u8
+#EXTINF:-1 ,Brunette Adult TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6183/index.m3u8
+#EXTINF:-1 ,cento x cento
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6184/index.m3u8
+#EXTINF:-1 ,Cherry Pimps
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6185/index.m3u8
+#EXTINF:-1 ,Club 17
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6186/index.m3u8
+#EXTINF:-1 ,Compilation Adult TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6187/index.m3u8
+#EXTINF:-1 ,Cuckold Red TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6188/index.m3u8
+#EXTINF:-1 ,Cum Louder
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6189/index.m3u8
+#EXTINF:-1 ,Cum4k
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6190/index.m3u8
+#EXTINF:-1 ,Daughter Swap
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6191/index.m3u8
+#EXTINF:-1 ,Day with a Pornstar
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6192/index.m3u8
+#EXTINF:-1 ,DDF Busty
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6193/index.m3u8
+#EXTINF:-1 ,DDF Network
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6194/index.m3u8
+#EXTINF:-1 ,Digital Desire HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6195/index.m3u8
+#EXTINF:-1 ,Digital Playground HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6196/index.m3u8
+#EXTINF:-1 ,Dorcel Club
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6197/index.m3u8
+#EXTINF:-1 ,Dusk
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6198/index.m3u8
+#EXTINF:-1 ,Evil Angel HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6199/index.m3u8
+#EXTINF:-1 ,Evolved Fights
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6200/index.m3u8
+#EXTINF:-1 ,Extasy HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6201/index.m3u8
+#EXTINF:-1 ,Fake Taxi HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6202/index.m3u8
+#EXTINF:-1 ,Fap TV 2
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6203/index.m3u8
+#EXTINF:-1 ,Fap TV 3
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6204/index.m3u8
+#EXTINF:-1 ,Fap TV 4
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6205/index.m3u8
+#EXTINF:-1 ,Fap TV Anal
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6206/index.m3u8
+#EXTINF:-1 ,Fap TV BBW
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6207/index.m3u8
+#EXTINF:-1 ,Fap TV Compilation
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6208/index.m3u8
+#EXTINF:-1 ,Fap TV Lesbian
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6209/index.m3u8
+#EXTINF:-1 ,Fap TV Parody
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6210/index.m3u8
+#EXTINF:-1 ,Fap TV Teens
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6211/index.m3u8
+#EXTINF:-1 ,FemJoy
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6212/index.m3u8
+#EXTINF:-1 ,Fetish Red TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6213/index.m3u8
+#EXTINF:-1 ,Gangbang Adult TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6214/index.m3u8
+#EXTINF:-1 ,Gay Adult TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6215/index.m3u8
+#EXTINF:-1 ,Got MYLF
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6216/index.m3u8
+#EXTINF:-1 ,Hands on Hardcore
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6217/index.m3u8
+#EXTINF:-1 ,Hard X
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6218/index.m3u8
+#EXTINF:-1 ,Hardcore Red TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6219/index.m3u8
+#EXTINF:-1 ,Hitzefrei HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6220/index.m3u8
+#EXTINF:-1 ,Holed
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6221/index.m3u8
+#EXTINF:-1 ,Hot and Mean
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6222/index.m3u8
+#EXTINF:-1 ,Hot Guys Fuck
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6223/index.m3u8
+#EXTINF:-1 ,Interracial Red TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6224/index.m3u8
+#EXTINF:-1 ,Japan HDV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6225/index.m3u8
+#EXTINF:-1 ,Latina Red TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6226/index.m3u8
+#EXTINF:-1 ,Lesbea
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6227/index.m3u8
+#EXTINF:-1 ,Lesbian Red TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6228/index.m3u8
+#EXTINF:-1 ,Lethal Hardcore
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6229/index.m3u8
+#EXTINF:-1 ,Little Asians HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6230/index.m3u8
+#EXTINF:-1 ,Live Cams Adult TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6231/index.m3u8
+#EXTINF:-1 ,Lust Cinema
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6232/index.m3u8
+#EXTINF:-1 ,MetArt HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6233/index.m3u8
+#EXTINF:-1 ,MILF Red TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6234/index.m3u8
+#EXTINF:-1 ,Monsters of Cock
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6235/index.m3u8
+#EXTINF:-1 ,MYLF TV HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6236/index.m3u8
+#EXTINF:-1 ,Naughty America
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6237/index.m3u8
+#EXTINF:-1 ,Nubiles TV HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6238/index.m3u8
+#EXTINF:-1 ,ox-ax HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6239/index.m3u8
+#EXTINF:-1 ,Pink Erotic 3
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6240/index.m3u8
+#EXTINF:-1 ,Pink Erotic 4
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6241/index.m3u8
+#EXTINF:-1 ,Playboy Plus
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6242/index.m3u8
+#EXTINF:-1 ,Pornstar Red TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6243/index.m3u8
+#EXTINF:-1 ,POV Adult TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6244/index.m3u8
+#EXTINF:-1 ,Private HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6245/index.m3u8
+#EXTINF:-1 ,Public Agent
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6246/index.m3u8
+#EXTINF:-1 ,Reality Kings HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6247/index.m3u8
+#EXTINF:-1 ,RK Prime
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6248/index.m3u8
+#EXTINF:-1 ,RK TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6249/index.m3u8
+#EXTINF:-1 ,Rough Adult TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6250/index.m3u8
+#EXTINF:-1 ,Russian Adult TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6251/index.m3u8
+#EXTINF:-1 ,Sex With Muslims
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6252/index.m3u8
+#EXTINF:-1 ,SexArt
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6253/index.m3u8
+#EXTINF:-1 ,sext 6 senso
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6254/index.m3u8
+#EXTINF:-1 ,SINematica
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6255/index.m3u8
+#EXTINF:-1 ,Teen Red TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6256/index.m3u8
+#EXTINF:-1 ,Threesome Red TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6257/index.m3u8
+#EXTINF:-1 ,Tiny4K
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6258/index.m3u8
+#EXTINF:-1 ,Trans Angels
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6259/index.m3u8
+#EXTINF:-1 ,True Amateurs
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6260/index.m3u8
+#EXTINF:-1 ,Tushy HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6261/index.m3u8
+#EXTINF:-1 ,TushyRAW
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6262/index.m3u8
+#EXTINF:-1 ,Visit-X TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6263/index.m3u8
+#EXTINF:-1 ,Vivid TV Europe
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6264/index.m3u8
+#EXTINF:-1 ,Vixen HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6265/index.m3u8
+#EXTINF:-1 ,We Live Together
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6266/index.m3u8
+#EXTINF:-1 ,White Boxxx
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6267/index.m3u8
+#EXTINF:-1 ,Wicked
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6268/index.m3u8
+#EXTINF:-1 ,Xpanded TV
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6269/index.m3u8
+#EXTINF:-1 ,Balkan Erotic
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6270/index.m3u8
+#EXTINF:-1 ,Red Lips
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6271/index.m3u8
+#EXTINF:-1 ,Emanuelle HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6272/index.m3u8
+#EXTINF:-1 ,Extreme
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6273/index.m3u8
+#EXTINF:-1 ,Fast Boyz
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6274/index.m3u8
+#EXTINF:-1 ,HOT
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6275/index.m3u8
+#EXTINF:-1 ,HOT XXL HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6276/index.m3u8
+#EXTINF:-1 ,Hot Pleasure
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6277/index.m3u8
+#EXTINF:-1 ,Lesbian Affair
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6278/index.m3u8
+#EXTINF:-1 ,Oldtimer
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6279/index.m3u8
+#EXTINF:-1 ,Playboy LA
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6280/index.m3u8
+#EXTINF:-1 ,Red XXX
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6281/index.m3u8
+#EXTINF:-1 ,Sexy Hot
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6282/index.m3u8
+#EXTINF:-1 ,Taboo
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6283/index.m3u8
+#EXTINF:-1 ,Venus
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6284/index.m3u8
+#EXTINF:-1 ,X-MO
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6285/index.m3u8
+#EXTINF:-1 ,XY Max HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6286/index.m3u8
+#EXTINF:-1 ,XY Mix HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6287/index.m3u8
+#EXTINF:-1 ,XY Plus HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6288/index.m3u8
+#EXTINF:-1 ,Erotic
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6289/index.m3u8
+#EXTINF:-1 ,Erotic 2
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6290/index.m3u8
+#EXTINF:-1 ,Erotic 3
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6291/index.m3u8
+#EXTINF:-1 ,Erotic 4
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6292/index.m3u8
+#EXTINF:-1 ,Erotic 6
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6293/index.m3u8
+#EXTINF:-1 ,Erotic 7
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6294/index.m3u8
+#EXTINF:-1 ,Erotic 8
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6295/index.m3u8
+#EXTINF:-1 ,Erox HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6296/index.m3u8
+#EXTINF:-1 ,MvH Hard
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6297/index.m3u8
+#EXTINF:-1 ,SuperOne HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/6298/index.m3u8
+#EXTINF:-1 ,Dorcel HD orig
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/9064/index.m3u8
+#EXTINF:-1 ,Hustler HD orig
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/9065/index.m3u8
+#EXTINF:-1 ,Redlight HD orig
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/9066/index.m3u8
+#EXTINF:-1 ,Dorcel TV HD orig
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/9067/index.m3u8
+#EXTINF:-1 ,O-La-La orig
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/9068/index.m3u8
+#EXTINF:-1 ,LIBERTY EROTIKA HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/16069/index.m3u8
+#EXTINF:-1 ,PROKOPTV XXX HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/19401/index.m3u8
+#EXTINF:-1 ,SKY_HIGH_SEX_VR
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/19406/index.m3u8
+#EXTINF:-1 ,DE Blue Hustler
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/20023/index.m3u8
+#EXTINF:-1 ,#EXTGRP:Взрослые
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/20024/index.m3u8
+#EXTINF:-1 ,DE Penthouse Passion HD
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/20025/index.m3u8
+#EXTINF:-1 ,DE Playboy Europe
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/20026/index.m3u8
+#EXTINF:-1 ,CineMan ExExEx
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/20089/index.m3u8
+#EXTINF:-1 ,CineMan ExExEx TWO
+http://48af2cd5.edemist.com/iptv/Y5FM5K6GMY4RPT/20090/index.m3u8
