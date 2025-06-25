@@ -1,153 +1,153 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240219-001
+#EXTINF:-1 group-title="pandatv",20240219-001
 https://jinri.bot.nu/bu/?c=video&path=/2.19/20240219_221621.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240219-002
+#EXTINF:-1 group-title="pandatv",20240219-002
 https://jinri.bot.nu/bu/?c=video&path=/2.19/20240219_185334.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240219-003
+#EXTINF:-1 group-title="pandatv",20240219-003
 https://jinri.bot.nu/bu/?c=video&path=/2.19/20240219_181703.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240221-001
+#EXTINF:-1 group-title="pandatv",20240221-001
 https://5721004.xyz/bu/2.21/20240221_141343.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240221-001
+#EXTINF:-1 group-title="pandatv",20240221-001
 https://5721004.xyz/bu/2.21/20240221_144616.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240221-001
+#EXTINF:-1 group-title="pandatv",20240221-001
 https://5721004.xyz/bu/2.21/20240221_150155.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240221-001
+#EXTINF:-1 group-title="pandatv",20240221-001
 https://5721004.xyz/bu/2.21/20240221_160156.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240221-001
+#EXTINF:-1 group-title="pandatv",20240221-001
 https://5721004.xyz/bu/2.21/20240221_170156.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240221-001
+#EXTINF:-1 group-title="pandatv",20240221-001
 https://5721004.xyz/bu/2.21/20240221_180156.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240221-001
+#EXTINF:-1 group-title="pandatv",20240221-001
 https://5721004.xyz/bu/2.21/20240221_190156.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240221-001
+#EXTINF:-1 group-title="pandatv",20240221-001
 https://5721004.xyz/bu/2.21/20240221_200156.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240221-001
+#EXTINF:-1 group-title="pandatv",20240221-001
 https://5721004.xyz/bu/2.21/20240221_210156.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240221-001
+#EXTINF:-1 group-title="pandatv",20240221-001
 https://5721004.xyz/bu/2.21/20240221_220156.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240223-001
+#EXTINF:-1 group-title="pandatv",20240223-001
 https://5721004.xyz/bu/2.23/20240223_144112.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240223-002
+#EXTINF:-1 group-title="pandatv",20240223-002
 https://5721004.xyz/bu/2.23/20240223_152609.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240223-003
+#EXTINF:-1 group-title="pandatv",20240223-003
 https://5721004.xyz/bu/2.23/20240223_162610.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240223-004
+#EXTINF:-1 group-title="pandatv",20240223-004
 https://5721004.xyz/bu/2.23/20240223_172610.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240223-005
+#EXTINF:-1 group-title="pandatv",20240223-005
 https://5721004.xyz/bu/2.23/20240223_182610.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240223-006
+#EXTINF:-1 group-title="pandatv",20240223-006
 https://5721004.xyz/bu/2.23/20240223_192610.srt
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240223-007
+#EXTINF:-1 group-title="pandatv",20240223-007
 https://5721004.xyz/bu/2.23/20240223_202610.srt
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240223-008
+#EXTINF:-1 group-title="pandatv",20240223-008
 https://5721004.xyz/bu/2.23/20240223_211612.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240223-009
+#EXTINF:-1 group-title="pandatv",20240223-009
 https://5721004.xyz/bu/2.23/20240223_221612.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240223-010
+#EXTINF:-1 group-title="pandatv",20240223-010
 https://5721004.xyz/bu/2.23/20240223_231612.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240226-001
+#EXTINF:-1 group-title="pandatv",20240226-001
 https://5721004.xyz/bu/2.26/%E3%80%90jinricp%E3%80%9120240226-001.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240226-002
+#EXTINF:-1 group-title="pandatv",20240226-002
 https://5721004.xyz/bu/2.26/%E3%80%90jinricp%E3%80%9120240226-002.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240226-003
+#EXTINF:-1 group-title="pandatv",20240226-003
 https://5721004.xyz/bu/2.26/%E3%80%90jinricp%E3%80%9120240226-003.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240226-004
+#EXTINF:-1 group-title="pandatv",20240226-004
 https://5721004.xyz/bu/2.26/%E3%80%90jinricp%E3%80%9120240226-004.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240226-005
+#EXTINF:-1 group-title="pandatv",20240226-005
 https://5721004.xyz/bu/2.26/%E3%80%90jinricp%E3%80%9120240226-005.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240228-001
+#EXTINF:-1 group-title="pandatv",20240228-001
 https://5721004.xyz/bu/2.28/%E3%80%90jinricp%E3%80%9120240228-001.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240228-002
+#EXTINF:-1 group-title="pandatv",20240228-002
 https://5721004.xyz/bu/2.28/%E3%80%90jinricp%E3%80%9120240228-002.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240228-003
+#EXTINF:-1 group-title="pandatv",20240228-003
 https://5721004.xyz/bu/2.28/%E3%80%90jinricp%E3%80%9120240228-003.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240228-004
+#EXTINF:-1 group-title="pandatv",20240228-004
 https://5721004.xyz/bu/2.28/%E3%80%90jinricp%E3%80%9120240228-VIP.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240304-001
+#EXTINF:-1 group-title="pandatv",20240304-001
 https://5721004.xyz/bu/3.04/%E3%80%90jinricp%E3%80%9120240304-001.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240304-002
+#EXTINF:-1 group-title="pandatv",20240304-002
 https://5721004.xyz/bu/3.04/%E3%80%90jinricp%E3%80%9120240304-002.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240304-003
+#EXTINF:-1 group-title="pandatv",20240304-003
 https://5721004.xyz/bu/3.04/%E3%80%90jinricp%E3%80%9120240304-003.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240304-004
+#EXTINF:-1 group-title="pandatv",20240304-004
 https://5721004.xyz/bu/3.04/%E3%80%90jinricp%E3%80%9120240304-004.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240306-001
+#EXTINF:-1 group-title="pandatv",20240306-001
 https://5721004.xyz/bu/3.06/%E3%80%90jinricp%E3%80%9120240306-001.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240306-002
+#EXTINF:-1 group-title="pandatv",20240306-002
 https://5721004.xyz/bu/3.06/%E3%80%90jinricp%E3%80%9120240306-002.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240306-003
+#EXTINF:-1 group-title="pandatv",20240306-003
 https://5721004.xyz/bu/3.06/%E3%80%90jinricp%E3%80%9120240306-003.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240306-004
+#EXTINF:-1 group-title="pandatv",20240306-004
 https://5721004.xyz/bu/3.06/%E3%80%90jinricp%E3%80%9120240306-VIP.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240308-001
+#EXTINF:-1 group-title="pandatv",20240308-001
 https://5721004.xyz/bu/3.06/%E3%80%90jinricp%E3%80%9120240308-001.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240308-002
+#EXTINF:-1 group-title="pandatv",20240308-002
 https://5721004.xyz/bu/3.06/%E3%80%90jinricp%E3%80%9120240308-002.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240308-003
+#EXTINF:-1 group-title="pandatv",20240308-003
 https://5721004.xyz/bu/3.06/%E3%80%90jinricp%E3%80%9120240308-003.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240308-004
+#EXTINF:-1 group-title="pandatv",20240308-004
 https://5721004.xyz/bu/3.06/%E3%80%90jinricp%E3%80%9120240308-VIP.m3u8
-EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240311-001
+EXTINF:-1 group-title="pandatv",20240311-001
 https://5721004.xyz/bu/3.11/%E3%80%90jinricp%E3%80%9120240311-001.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240311-002
+#EXTINF:-1 group-title="pandatv",20240311-002
 https://5721004.xyz/bu/3.11/%E3%80%90jinricp%E3%80%9120240311-002.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240311-003
+#EXTINF:-1 group-title="pandatv",20240311-003
 https://5721004.xyz/bu/3.11/%E3%80%90jinricp%E3%80%9120240311-003.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240313-001
+#EXTINF:-1 group-title="pandatv",20240313-001
 https://5721004.xyz/bu/3.15/%E3%80%90jinricp%E3%80%9120240313-001.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240313-002
+#EXTINF:-1 group-title="pandatv",20240313-002
 https://5721004.xyz/bu/3.15/%E3%80%90jinricp%E3%80%9120240313-002.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240313-003
+#EXTINF:-1 group-title="pandatv",20240313-003
 https://5721004.xyz/bu/3.15/%E3%80%90jinricp%E3%80%9120240313-003.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240313-004
+#EXTINF:-1 group-title="pandatv",20240313-004
 https://5721004.xyz/bu/3.13/%E3%80%90jinricp%E3%80%9120240313-004.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240315-001
+#EXTINF:-1 group-title="pandatv",20240315-001
 https://5721004.xyz/bu/3.15/%E3%80%90jinricp%E3%80%9120240315-001.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240315-002
+#EXTINF:-1 group-title="pandatv",20240315-002
 https://5721004.xyz/bu/3.15/%E3%80%90jinricp%E3%80%9120240315-002.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240315-003
+#EXTINF:-1 group-title="pandatv",20240315-003
 https://5721004.xyz/bu/3.15/%E3%80%90jinricp%E3%80%9120240315-003.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240315-004
+#EXTINF:-1 group-title="pandatv",20240315-004
 https://5721004.xyz/bu/3.15/%E3%80%90jinricp%E3%80%9120240315-004.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240320-001
+#EXTINF:-1 group-title="pandatv",20240320-001
 https://5721004.xyz/bu/3.18/%E3%80%90jinricp%E3%80%9120240318-001.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240320-002
+#EXTINF:-1 group-title="pandatv",20240320-002
 https://5721004.xyz/bu/3.18/%E3%80%90jinricp%E3%80%9120240318-002.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240320-003
+#EXTINF:-1 group-title="pandatv",20240320-003
 https://5721004.xyz/bu/3.18/%E3%80%90jinricp%E3%80%9120240318-003.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240320-004
+#EXTINF:-1 group-title="pandatv",20240320-004
 https://5721004.xyz/bu/3.18/%E3%80%90jinricp%E3%80%9120240318-004.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240320-001
+#EXTINF:-1 group-title="pandatv",20240320-001
 https://5721004.xyz/bu/3.20/%E3%80%90jinricp%E3%80%9120240320-001.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240320-002
+#EXTINF:-1 group-title="pandatv",20240320-002
 https://5721004.xyz/bu/3.20/%E3%80%90jinricp%E3%80%9120240320-002.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240320-003
+#EXTINF:-1 group-title="pandatv",20240320-003
 https://5721004.xyz/bu/3.20/%E3%80%90jinricp%E3%80%9120240320-003.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240322-001
+#EXTINF:-1 group-title="pandatv",20240322-001
 https://5721004.xyz/bu/3.22/%E3%80%90jinricp%E3%80%9120240322-001.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240322-002
+#EXTINF:-1 group-title="pandatv",20240322-002
 https://5721004.xyz/bu/3.22/%E3%80%90jinricp%E3%80%9120240322-002.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240322-003
+#EXTINF:-1 group-title="pandatv",20240322-003
 https://5721004.xyz/bu/3.22/%E3%80%90jinricp%E3%80%9120240322-003.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240324-001
+#EXTINF:-1 group-title="pandatv",20240324-001
 https://5721004.xyz/bu/3.25/%E3%80%90jinricp%E3%80%9120240324-001.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240324-002
+#EXTINF:-1 group-title="pandatv",20240324-002
 https://5721004.xyz/bu/3.25/%E3%80%90jinricp%E3%80%9120240324-002.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240324-003
+#EXTINF:-1 group-title="pandatv",20240324-003
 https://5721004.xyz/bu/3.25/%E3%80%90jinricp%E3%80%9120240324-003.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240324-004
+#EXTINF:-1 group-title="pandatv",20240324-004
 https://5721004.xyz/bu/3.25/%E3%80%90jinricp%E3%80%9120240324-004.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240324-005
+#EXTINF:-1 group-title="pandatv",20240324-005
 https://5721004.xyz/bu/3.25/%E3%80%90jinricp%E3%80%9120240324-005.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240325-001
+#EXTINF:-1 group-title="pandatv",20240325-001
 https://5721004.xyz/bu/3.25/%E3%80%90jinricp%E3%80%9120240325-001.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240325-002
+#EXTINF:-1 group-title="pandatv",20240325-002
 https://5721004.xyz/bu/3.25/%E3%80%90jinricp%E3%80%9120240325-002.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240325-003
+#EXTINF:-1 group-title="pandatv",20240325-003
 https://5721004.xyz/bu/3.25/%E3%80%90jinricp%E3%80%9120240325-003.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240325-004
+#EXTINF:-1 group-title="pandatv",20240325-004
 https://5721004.xyz/bu/3.25/%E3%80%90jinricp%E3%80%9120240325-004.m3u8
-#EXTINF:-1,tvg-id="jinripc" tvg-name="jinripc" tvg-logo="" group-title="pandatv",20240325-005
+#EXTINF:-1 group-title="pandatv",20240325-005
 https://5721004.xyz/bu/3.25/%E3%80%90jinricp%E3%80%9120240325-005.m3u8
 #EXTINF:-1,Unknown_1
 https://m3u8.63cdn.com/newhd/202104/607fde89f109253e1825577a/m3u8/index.m3u8#
