@@ -11511,21 +11511,21 @@ http://1tv41.icu:8080/12064871/04809732/215791
 http://1tv41.icu:8080/12064871/04809732/215792
 #EXTINF:-1 tvg-name="x4 | elle lee" tvg-logo="https://dub.sh/7ft7wg0",X4 | Elle Lee
 http://1tv41.icu:8080/12064871/04809732/215793
-#EXTINF:-1 tvg-id="barely-legal" group-title="TV",asia
+#EXTINF:-1 group-title="tv",asia
 http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160011
-EXTINF:-1 tvg-id="barely-legal" group-title="TV",casting
+#EXTINF:-1 group-title="tv",casting
 http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159968
-EXTINF:-1 tvg-id="barely-legal" group-title="TV",en vivo3
+#EXTINF:-1 group-title="tv",en vivo3
 http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/159971
-EXTINF:-1 tvg-id="barely-legal" group-title="TV",sola en vivo4
+#EXTINF:-1 group-title="tv",sola en vivo4
 http://u2tp5zor.megatv.fun/iptv/GND3B9YB2KUEYX/6212/index.m3u8
-EXTINF:-1 tvg-id="barely-legal" group-title="TV",en vivo5
+#EXTINF:-1 group-title="tv",en vivo5
 http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160002
-EXTINF:-1 tvg-id="barely-legal" group-title="TV",en vivo6
+#EXTINF:-1 group-title="tv",en vivo6
 http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160005
-EXTINF:-1 tvg-id="barely-legal" group-title="TV",chica loca
+#EXTINF:-1 group-title="tv",chica loca
 http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160009
-EXTINF:-1 tvg-id="barely-legal" group-title="TV",masaje
+#EXTINF:-1 group-title="tv",masaje
 http://206.212.244.71:8080/Ed_gonzalez80@yahoo.com/Ed_gonzalez80@2022/160010
 
 #KEY
